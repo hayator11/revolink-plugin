@@ -529,11 +529,14 @@ function revolink_render_lp() {
                         <div style="font-size:13px;color:#64748b;line-height:1.6;">あとは何もしなくていい。あなたのHPを訪れる人が、自然に社会貢献に参加します。</div>
                     </div>
                 </div>
+                <div style="margin-bottom:28px;padding:24px 28px;background:rgba(255,255,255,0.04);border-radius:14px;border-left:3px solid #fb923c;">
+                    <p style="font-size:15px;color:#cbd5e1;line-height:1.8;margin:0;">ホームページから社会貢献につなげます。運用しながら、自然に応援の輪が広がります。広告費からスポンサー費を生み出し、広告運用を通じて生まれた収益の一部を、スポンサー費として活動に還元します。社会貢献型広告収入プログラムに参加することで、日常の活動を社会貢献型の収益構造に変え、補助金に頼らない、持続可能な応援の形を目指します。</p>
+                </div>
 
                 <div style="background:rgba(255,255,255,0.06);border-radius:14px;padding:20px 28px;margin-bottom:32px;text-align:left;display:inline-block;">
                     <p style="font-size:14px;color:#94a3b8;margin:0;line-height:1.7;">
                         <strong style="color:#fff;">対象となるHP・サイト例：</strong><br>
-                        個人ブログ / 店舗公式サイト / 作家・アーティストのポートフォリオ / 里親カフェのHP / SNSリンクページ（Linktree等）/ note など
+                        病院・クリニック / 法律事務所・税理士事務所 / 企業・法人サイト / 店舗・飲食店 / 個人ブログ / 里親カフェのHP / SNSリンクページ（Linktree等）/ note など
                     </p>
                 </div>
 
