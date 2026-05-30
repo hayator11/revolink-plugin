@@ -1006,7 +1006,7 @@ function revolink_render_lp() {
                 登録は無料です。あなたの「できる形」で
                 おのくんとつながりましょう。
             </p>
-            <?php echo do_shortcode('[satoya_form]'); ?>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-PKBnEoapbdwA55JPWz5hYfJESu4hJp1niNz6JAW4VC5JOw/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" loading="lazy">読み込んでいます…</iframe>
             <a href="#rl-what" class="rl-back-to-top">▲ ページ上部に戻る</a>
         </div>
     </section>
