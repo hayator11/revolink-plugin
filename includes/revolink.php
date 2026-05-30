@@ -530,7 +530,7 @@ function revolink_render_lp() {
                     </div>
                 </div>
                 <div style="margin-bottom:28px;padding:24px 28px;background:rgba(255,255,255,0.04);border-radius:14px;border-left:3px solid #fb923c;">
-                    <p style="font-size:15px;color:#cbd5e1;line-height:1.8;margin:0;">ホームページから社会貢献につなげます。運用しながら、自然に応援の輪が広がります。広告費からスポンサー費を生み出し、広告運用を通じて生まれた収益の一部を、スポンサー費として活動に還元します。社会貢献型広告収入プログラムに参加することで、日常の活動を社会貢献型の収益構造に変え、補助金に頼らない、持続可能な応援の形を目指します。</p>
+                    <p style="font-size:15px;color:#cbd5e1;line-height:1.8;margin:0;">ホームページを運用して、応援の輪へとつなげ、広告運用を通じて生まれた収益の一部を、社会貢献型広告収入スポンサープログラムで、日常の活動を社会貢献型の収益構造に変え、補助金に頼らない、持続可能な応援の形を目指します。</p>
                 </div>
 
                 <div style="background:rgba(255,255,255,0.06);border-radius:14px;padding:20px 28px;margin-bottom:32px;text-align:left;display:inline-block;">
